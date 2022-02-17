@@ -1,0 +1,82 @@
+.encabezado{
+    float:right;
+}
+.encabezado img{
+    width: 25px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.encabezado a{
+    position: relative;
+    bottom: 7px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 7px;
+    color: gray;
+}
+.google{
+    position: relative;
+    top: 80px;
+    left: 550px;
+}
+.google img{
+    width: 300px;
+}
+.buscar{
+    position: relative;
+    left: 450px;
+    top: 75px;
+}
+.buscar input{
+    width: 500px;
+    height: 25px;
+    border-radius: 20px;
+}
+.botones{
+    position: relative;
+    left: 550px;
+    top: 90px;
+}
+.botones button{
+    padding: 10px 5px;
+    margin: 10px 10px;
+}
+.leyenda{
+    position: relative;
+    left: 520px;
+    top: 80px;
+}
+.leyenda p{
+    display: inline-block;
+}
+.leyenda a{
+    text-decoration: none;
+    color: blue;
+}
+footer{
+    position: relative;
+    top: 300px;
+    background-color: rgb(223, 222, 222);
+    padding-bottom: 34px;
+}
+.mex p{
+    position: relative;
+    top: 8px;
+    left: 15px;
+}
+.info{  
+    float: left;
+}
+.info a{
+    text-decoration: none;
+    padding-left: 15px;
+    color: rgb(102, 101, 101);
+}
+.con{
+    float: right;
+}
+.con a{
+    text-decoration: none;
+    padding-right: 15px;
+    color: rgb(102, 101, 101);
+}
